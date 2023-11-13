@@ -1,0 +1,19 @@
+p {
+    font: Montserrat;
+}
+.title {
+    color: black;
+    font-size: 30px;
+    margin-left: 60px;
+    font-weight: bold;
+    
+}
+
+.text {
+    font-size: 20px;
+
+}
+
+.text1 {
+    text-decoration: underline;
+}
