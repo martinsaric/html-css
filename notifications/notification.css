@@ -1,0 +1,47 @@
+.grid-section {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    width: 220px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: rgb(216, 216, 216);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.section1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    font-family: Arial;
+    color: black;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.button1 {
+    background-color: rgb(0, 140, 255);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 50px;
+
+    
+}
+
+.button2 {
+    background-color: rgb(0, 140, 255);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-right: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 35px;
+}
